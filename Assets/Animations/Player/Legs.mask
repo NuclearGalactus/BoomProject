@@ -1,0 +1,544 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Legs
+  m_Mask: 01000000000000000000000001000000010000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: foot.L
+    m_Weight: 1
+  - m_Path: foot.L/Cube.039
+    m_Weight: 1
+  - m_Path: foot.L/heel.L
+    m_Weight: 1
+  - m_Path: foot.L/heel.L/heel.02.L
+    m_Weight: 1
+  - m_Path: foot.L/heel.L/heel.02.L/heel.02.L_end
+    m_Weight: 1
+  - m_Path: foot.L/poleTarget.L
+    m_Weight: 1
+  - m_Path: foot.L/poleTarget.L/poleTarget.L_end
+    m_Weight: 1
+  - m_Path: foot.L/toe.L
+    m_Weight: 1
+  - m_Path: foot.L/toe.L/toe.L_end
+    m_Weight: 1
+  - m_Path: foot.R
+    m_Weight: 1
+  - m_Path: foot.R/Cube.035
+    m_Weight: 1
+  - m_Path: foot.R/heel.R
+    m_Weight: 1
+  - m_Path: foot.R/heel.R/heel.02.R
+    m_Weight: 1
+  - m_Path: foot.R/heel.R/heel.02.R/heel.02.R_end
+    m_Weight: 1
+  - m_Path: foot.R/poleTarget.R
+    m_Weight: 1
+  - m_Path: foot.R/poleTarget.R/poleTarget.R_end
+    m_Weight: 1
+  - m_Path: foot.R/toe.R
+    m_Weight: 1
+  - m_Path: foot.R/toe.R/toe.R_end
+    m_Weight: 1
+  - m_Path: hips
+    m_Weight: 0
+  - m_Path: hips/Cube.013
+    m_Weight: 0
+  - m_Path: hips/Cylinder.021
+    m_Weight: 0
+  - m_Path: hips/spine
+    m_Weight: 0
+  - m_Path: hips/spine/Bone
+    m_Weight: 0
+  - m_Path: hips/spine/Bone/Bone_end
+    m_Weight: 0
+  - m_Path: hips/spine/Bone/Cylinder.030
+    m_Weight: 0
+  - m_Path: hips/spine/Bone/Cylinder.036
+    m_Weight: 0
+  - m_Path: hips/spine/Bone.001
+    m_Weight: 0
+  - m_Path: hips/spine/Bone.001/Bone.001_end
+    m_Weight: 0
+  - m_Path: hips/spine/Bone.001/Cylinder.029
+    m_Weight: 0
+  - m_Path: hips/spine/Bone.002
+    m_Weight: 0
+  - m_Path: hips/spine/Bone.002/Bone.002_end
+    m_Weight: 0
+  - m_Path: hips/spine/Bone.002/Cube.020
+    m_Weight: 0
+  - m_Path: hips/spine/Bone.002/Cube.021
+    m_Weight: 0
+  - m_Path: hips/spine/Bone.002/Cylinder.031
+    m_Weight: 0
+  - m_Path: hips/spine/Bone.003
+    m_Weight: 0
+  - m_Path: hips/spine/Bone.003/Bone.003_end
+    m_Weight: 0
+  - m_Path: hips/spine/Bone.003/Cylinder.032
+    m_Weight: 0
+  - m_Path: hips/spine/Bone.004
+    m_Weight: 0
+  - m_Path: hips/spine/Bone.004/Bone.004_end
+    m_Weight: 0
+  - m_Path: hips/spine/Bone.004/Cube.014
+    m_Weight: 0
+  - m_Path: hips/spine/Bone.004/Cube.017
+    m_Weight: 0
+  - m_Path: hips/spine/Bone.004/Cylinder.033
+    m_Weight: 0
+  - m_Path: hips/spine/Bone.005
+    m_Weight: 0
+  - m_Path: hips/spine/Bone.005/Bone.005_end
+    m_Weight: 0
+  - m_Path: hips/spine/Bone.005/Cylinder.034
+    m_Weight: 0
+  - m_Path: hips/spine/Bone.006
+    m_Weight: 0
+  - m_Path: hips/spine/Bone.006/Bone.006_end
+    m_Weight: 0
+  - m_Path: hips/spine/Bone.006/Cylinder.035
+    m_Weight: 0
+  - m_Path: hips/spine/chest
+    m_Weight: 0
+  - m_Path: hips/spine/chest/BezierCurve.002
+    m_Weight: 0
+  - m_Path: hips/spine/chest/BezierCurve.003
+    m_Weight: 0
+  - m_Path: hips/spine/chest/BezierCurve.004
+    m_Weight: 0
+  - m_Path: hips/spine/chest/BezierCurve.009
+    m_Weight: 0
+  - m_Path: hips/spine/chest/BezierCurve.010
+    m_Weight: 0
+  - m_Path: hips/spine/chest/BezierCurve.011
+    m_Weight: 0
+  - m_Path: hips/spine/chest/Cube
+    m_Weight: 0
+  - m_Path: hips/spine/chest/Cube.018
+    m_Weight: 0
+  - m_Path: hips/spine/chest/Cube.019
+    m_Weight: 0
+  - m_Path: hips/spine/chest/Cube.022
+    m_Weight: 0
+  - m_Path: hips/spine/chest/Cylinder.025
+    m_Weight: 0
+  - m_Path: hips/spine/chest/Cylinder.037
+    m_Weight: 0
+  - m_Path: hips/spine/chest/Icosphere
+    m_Weight: 0
+  - m_Path: hips/spine/chest/neck
+    m_Weight: 0
+  - m_Path: hips/spine/chest/neck/head
+    m_Weight: 0
+  - m_Path: hips/spine/chest/neck/head/head_end
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.L
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.L/upper_arm.L
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.L/upper_arm.L/Cube.015
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.L/upper_arm.L/Cube.040
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.L/upper_arm.L/forearm.L
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/Cube.001
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/Cube.041
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.L/upper_arm.L/forearm.L/forearm.L_end
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.L/upper_arm.L/Sphere
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.L/upper_arm.L/Sphere.005
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.L/upper_arm.L/Sphere.006
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.L/upper_arm.L/Sphere.018
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.R
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.R/upper_arm.R
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.R/upper_arm.R/Cube.016
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.R/upper_arm.R/Cube.042
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.R/upper_arm.R/forearm.R
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/Cube.000
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/Cube.000/Cylinder.041
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/Cube.043
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R_end
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.R/upper_arm.R/Sphere.007
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.R/upper_arm.R/Sphere.008
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.R/upper_arm.R/Sphere.021
+    m_Weight: 0
+  - m_Path: hips/spine/chest/shoulder.R/upper_arm.R/Sphere.024
+    m_Weight: 0
+  - m_Path: hips/spine/chest/Sphere.031
+    m_Weight: 0
+  - m_Path: hips/spine/Clip
+    m_Weight: 0
+  - m_Path: hips/spine/Clip/Clip_end
+    m_Weight: 0
+  - m_Path: hips/spine/Clip/Cube.038
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/Arm_PT_L
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/Arm_PT_L/Arm_PT_L_end
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/Cube.006
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L/f_index.01.L
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L/f_index.01.L/f_index.02.L
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L/Cylinder.004
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L/f_index.01.L/f_index.02.L/f_index.03.L/f_index.03.L_end
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L/f_index.01.L/f_index.02.L/Sphere.020
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L/f_index.01.L/f_index.02.L/Sphere.043
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L/f_index.01.L/f_index.02.L/Sphere.044
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L/f_index.01.L/Sphere.019
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L/f_index.01.L/Sphere.040
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L/f_index.01.L/Sphere.046
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L/Sphere.000
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L/Sphere.047
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L/thumb.01.L
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L/thumb.01.L/Cylinder.000
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L/thumb.01.L/Sphere.001
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L/thumb.01.L/thumb.02.L
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L/thumb.01.L/thumb.02.L/Cylinder.002
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L/thumb.01.L/thumb.02.L/Sphere.002
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L/Cylinder.003
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.01.L/thumb.01.L/thumb.02.L/thumb.03.L/thumb.03.L_end
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.02.L
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.02.L/f_middle.01.L
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/Cube.012
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/Cube.031
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L/Cylinder.019
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/f_middle.03.L/f_middle.03.L_end
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.02.L/f_middle.01.L/f_middle.02.L/Sphere.054
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.02.L/f_middle.01.L/Sphere.022
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.02.L/f_middle.01.L/Sphere.053
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.02.L/Sphere.048
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.02.L/Sphere.049
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.02.L/Sphere.051
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.03.L
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.03.L/Cube.027
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.03.L/Cube.028
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.03.L/f_ring.01.L
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.03.L/f_ring.01.L/Cube.025
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.03.L/f_ring.01.L/Cylinder.001
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/Cube.024
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/Cylinder.005
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L/Cylinder.020
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/f_ring.03.L/f_ring.03.L_end
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.03.L/f_ring.01.L/f_ring.02.L/Sphere.055
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.03.L/f_ring.01.L/Sphere.056
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.03.L/Sphere.057
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.04.L
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.04.L/Cube.029
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.04.L/Cube.030
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.04.L/f_pinky.01.L
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/Cylinder.011
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/Cylinder.022
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/Cylinder.024
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L/Cylinder.023
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.04.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L/f_pinky.03.L_end
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.04.L/f_pinky.01.L/Sphere.023
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.04.L/f_pinky.01.L/Sphere.058
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.04.L/f_pinky.01.L/Sphere.060
+    m_Weight: 0
+  - m_Path: hips/spine/hand.L/palm.04.L/Sphere.061
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/Arm_PT_R
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/Arm_PT_R/Arm_PT_R_end
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/Cube.037
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/Gun
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/Gun/Cube.036
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/Gun/Cube.036/BezierCurve.005
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/Gun/Cube.036/BezierCurve.006
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/Gun/Cube.036/BezierCurve.008
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/Gun/Cube.036/Cube.026
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/Gun/Cube.036/Cube.032
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/Gun/Cube.036/Cube.033
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/Gun/Cube.036/Cylinder.028
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/Gun/Gun_end
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/f_index.01.R
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/f_index.01.R/f_index.02.R
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R/Cylinder.008
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R/f_index.03.R_end
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R/Sphere.003
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/f_index.01.R/f_index.02.R/Sphere.012
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/f_index.01.R/f_index.02.R/Sphere.032
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/f_index.01.R/Sphere.009
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/f_index.01.R/Sphere.010
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/f_index.01.R/Sphere.011
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/Sphere.004
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/Sphere.013
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/Sphere.014
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/thumb.01.R
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/thumb.01.R/Cylinder.012
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/thumb.01.R/Sphere.035
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/thumb.01.R/thumb.02.R
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/thumb.01.R/thumb.02.R/Cylinder.010
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/thumb.01.R/thumb.02.R/Sphere.033
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R/Cylinder.009
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.01.R/thumb.01.R/thumb.02.R/thumb.03.R/thumb.03.R_end
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.02.R
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.02.R/f_middle.01.R
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/Cube.002
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/Cube.003
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R/Cylinder.006
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R/f_middle.03.R_end
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.02.R/f_middle.01.R/f_middle.02.R/Sphere.015
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.02.R/f_middle.01.R/Sphere.016
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.02.R/f_middle.01.R/Sphere.017
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.02.R/Sphere.025
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.02.R/Sphere.026
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.02.R/Sphere.027
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.03.R
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.03.R/Cube.004
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.03.R/Cube.005
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.03.R/f_ring.01.R
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.03.R/f_ring.01.R/Cube.008
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.03.R/f_ring.01.R/Cylinder.044
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/Cube.007
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/Cube.009
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/Cylinder.048
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R/Cylinder.007
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R/f_ring.03.R_end
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.03.R/f_ring.01.R/f_ring.02.R/Sphere.030
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.03.R/f_ring.01.R/Sphere.029
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.03.R/Sphere.028
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.04.R
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.04.R/Cube.010
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.04.R/Cube.011
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.04.R/f_pinky.01.R
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/Cylinder.013
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/Cylinder.014
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/Cylinder.015
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R/Cylinder.017
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R/f_pinky.03.R_end
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.04.R/f_pinky.01.R/Sphere.036
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.04.R/f_pinky.01.R/Sphere.037
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.04.R/f_pinky.01.R/Sphere.038
+    m_Weight: 0
+  - m_Path: hips/spine/hand.R/palm.04.R/Sphere.039
+    m_Weight: 0
+  - m_Path: hips/spine/Spine_Target
+    m_Weight: 0
+  - m_Path: hips/spine/Spine_Target/Spine_Target_end
+    m_Weight: 0
+  - m_Path: hips/thigh.L
+    m_Weight: 1
+  - m_Path: hips/thigh.L/Cylinder.026
+    m_Weight: 1
+  - m_Path: hips/thigh.L/Cylinder.027
+    m_Weight: 1
+  - m_Path: hips/thigh.L/Cylinder.038
+    m_Weight: 1
+  - m_Path: hips/thigh.L/Cylinder.040
+    m_Weight: 1
+  - m_Path: hips/thigh.L/shin.L
+    m_Weight: 1
+  - m_Path: hips/thigh.L/shin.L/Cube.023
+    m_Weight: 1
+  - m_Path: hips/thigh.L/shin.L/shin.L_end
+    m_Weight: 1
+  - m_Path: hips/thigh.R
+    m_Weight: 1
+  - m_Path: hips/thigh.R/Cylinder
+    m_Weight: 1
+  - m_Path: hips/thigh.R/Cylinder.016
+    m_Weight: 1
+  - m_Path: hips/thigh.R/Cylinder.018
+    m_Weight: 1
+  - m_Path: hips/thigh.R/Cylinder.039
+    m_Weight: 1
+  - m_Path: hips/thigh.R/shin.R
+    m_Weight: 1
+  - m_Path: hips/thigh.R/shin.R/Cube.034
+    m_Weight: 1
+  - m_Path: hips/thigh.R/shin.R/shin.R_end
+    m_Weight: 1

@@ -1,0 +1,460 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Arms
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: basic_enemy
+    m_Weight: 0
+  - m_Path: basic_enemy/heel.02.L
+    m_Weight: 0
+  - m_Path: basic_enemy/heel.02.L/heel.02.L.001
+    m_Weight: 0
+  - m_Path: basic_enemy/heel.02.L/heel.02.L.001/Cube.012
+    m_Weight: 0
+  - m_Path: basic_enemy/heel.02.L/heel.02.L.001/heel.02.L.001_end
+    m_Weight: 0
+  - m_Path: basic_enemy/heel.02.L/L_poletarget
+    m_Weight: 0
+  - m_Path: basic_enemy/heel.02.L/L_poletarget/L_poletarget_end
+    m_Weight: 0
+  - m_Path: basic_enemy/heel.02.R
+    m_Weight: 0
+  - m_Path: basic_enemy/heel.02.R/heel.02.R.001
+    m_Weight: 0
+  - m_Path: basic_enemy/heel.02.R/heel.02.R.001/Cube.011
+    m_Weight: 0
+  - m_Path: basic_enemy/heel.02.R/heel.02.R.001/heel.02.R.001_end
+    m_Weight: 0
+  - m_Path: basic_enemy/heel.02.R/R_poletarget
+    m_Weight: 0
+  - m_Path: basic_enemy/heel.02.R/R_poletarget/R_poletarget_end
+    m_Weight: 0
+  - m_Path: basic_enemy/Root
+    m_Weight: 0
+  - m_Path: basic_enemy/Root/hips
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.01.R.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.01.R.001/f_index.01.R.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.01.R.001/f_index.01.R.001/f_index.02.R.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.01.R.001/f_index.01.R.001/f_index.02.R.001/f_index.03.R.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.01.R.001/f_index.01.R.001/f_index.02.R.001/f_index.03.R.001/f_index.03.R.001_end
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.01.R.001/f_index.01.R.001/f_index.02.R.001/f_index.03.R.001/Icosphere.005
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.01.R.001/f_index.01.R.001/f_index.02.R.001/Icosphere.010
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.01.R.001/f_index.01.R.001/f_index.02.R.001/Icosphere.061
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.01.R.001/f_index.01.R.001/Icosphere.058
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.01.R.001/f_index.01.R.001/Icosphere.065
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.01.R.001/Icosphere.018
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.01.R.001/Icosphere.024
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.02.R.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.02.R.001/f_middle.01.R.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.02.R.001/f_middle.01.R.001/f_middle.02.R.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.02.R.001/f_middle.01.R.001/f_middle.02.R.001/f_middle.03.R.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.02.R.001/f_middle.01.R.001/f_middle.02.R.001/f_middle.03.R.001/f_middle.03.R.001_end
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.02.R.001/f_middle.01.R.001/f_middle.02.R.001/f_middle.03.R.001/Icosphere.004
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.02.R.001/f_middle.01.R.001/f_middle.02.R.001/Icosphere.009
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.02.R.001/f_middle.01.R.001/f_middle.02.R.001/Icosphere.060
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.02.R.001/f_middle.01.R.001/Icosphere.057
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.02.R.001/f_middle.01.R.001/Icosphere.064
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.02.R.001/Icosphere.017
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.02.R.001/Icosphere.021
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.03.R.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.03.R.001/f_ring.01.R.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.03.R.001/f_ring.01.R.001/f_ring.02.R.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.03.R.001/f_ring.01.R.001/f_ring.02.R.001/f_ring.03.R.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.03.R.001/f_ring.01.R.001/f_ring.02.R.001/f_ring.03.R.001/f_ring.03.R.001_end
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.03.R.001/f_ring.01.R.001/f_ring.02.R.001/f_ring.03.R.001/Icosphere.003
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.03.R.001/f_ring.01.R.001/f_ring.02.R.001/Icosphere.007
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.03.R.001/f_ring.01.R.001/f_ring.02.R.001/Icosphere.059
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.03.R.001/f_ring.01.R.001/Icosphere.056
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.03.R.001/f_ring.01.R.001/Icosphere.063
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.03.R.001/Icosphere.016
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.03.R.001/Icosphere.020
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.04.R.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.04.R.001/f_pinky.01.R.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.04.R.001/f_pinky.01.R.001/f_pinky.02.R.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.04.R.001/f_pinky.01.R.001/f_pinky.02.R.001/f_pinky.03.R.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.04.R.001/f_pinky.01.R.001/f_pinky.02.R.001/f_pinky.03.R.001/f_pinky.03.R.001_end
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.04.R.001/f_pinky.01.R.001/f_pinky.02.R.001/f_pinky.03.R.001/Icosphere.002
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.04.R.001/f_pinky.01.R.001/f_pinky.02.R.001/Icosphere.006
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.04.R.001/f_pinky.01.R.001/f_pinky.02.R.001/Icosphere.055
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.04.R.001/f_pinky.01.R.001/Icosphere.014
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.04.R.001/f_pinky.01.R.001/Icosphere.062
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.04.R.001/Icosphere.015
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/palm.04.R.001/Icosphere.019
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/thumb.01.R.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/thumb.01.R.001/Icosphere.011
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/thumb.01.R.001/Icosphere.023
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/thumb.01.R.001/thumb.02.R.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/thumb.01.R.001/thumb.02.R.001/Icosphere.022
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_L/thumb.01.R.001/thumb.02.R.001/thumb.02.R.001_end
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.01.R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.01.R/f_index.01.R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.01.R/f_index.01.R/f_index.02.R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R/f_index.03.R_end
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.01.R/f_index.01.R/f_index.02.R/f_index.03.R/Icosphere.025
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.01.R/f_index.01.R/f_index.02.R/Icosphere.031
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.01.R/f_index.01.R/f_index.02.R/Icosphere.049
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.01.R/f_index.01.R/Icosphere.046
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.01.R/f_index.01.R/Icosphere.053
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.01.R/Icosphere.036
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.01.R/Icosphere.042
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.02.R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.02.R/f_middle.01.R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.02.R/f_middle.01.R/f_middle.02.R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R/f_middle.03.R_end
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.02.R/f_middle.01.R/f_middle.02.R/f_middle.03.R/Icosphere.013
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.02.R/f_middle.01.R/f_middle.02.R/Icosphere.030
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.02.R/f_middle.01.R/f_middle.02.R/Icosphere.048
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.02.R/f_middle.01.R/Icosphere.045
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.02.R/f_middle.01.R/Icosphere.052
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.02.R/Icosphere.035
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.02.R/Icosphere.039
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.03.R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.03.R/f_ring.01.R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.03.R/f_ring.01.R/f_ring.02.R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R/f_ring.03.R_end
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.03.R/f_ring.01.R/f_ring.02.R/f_ring.03.R/Icosphere.012
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.03.R/f_ring.01.R/f_ring.02.R/Icosphere.028
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.03.R/f_ring.01.R/f_ring.02.R/Icosphere.047
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.03.R/f_ring.01.R/Icosphere.044
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.03.R/f_ring.01.R/Icosphere.051
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.03.R/Icosphere.034
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.03.R/Icosphere.038
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.04.R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.04.R/f_pinky.01.R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.04.R/f_pinky.01.R/f_pinky.02.R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R/f_pinky.03.R_end
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.04.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R/Icosphere.008
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.04.R/f_pinky.01.R/f_pinky.02.R/Icosphere.027
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.04.R/f_pinky.01.R/f_pinky.02.R/Icosphere.043
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.04.R/f_pinky.01.R/Icosphere.032
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.04.R/f_pinky.01.R/Icosphere.050
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.04.R/Icosphere.033
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/palm.04.R/Icosphere.037
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/thumb.01.R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/thumb.01.R/Icosphere.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/thumb.01.R/Icosphere.041
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/thumb.01.R/thumb.02.R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/thumb.01.R/thumb.02.R/Icosphere.040
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Hand_R/thumb.01.R/thumb.02.R/thumb.02.R_end
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Rest
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Rest/Slide
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/Rest/Slide/Slide_end
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/Cube.002
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/Cube.006
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/Cube.022
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/Cube.023
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/Cube.024
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/Cube.027
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/Cube.028
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/Cube.029
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/Cube.030
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/Cube.031
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/Cube.032
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/Cube.033
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/Cube.034
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/Cube.037
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/Cube.038
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/Cube.039
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/Cube.040
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Cube.035
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Cube.035_cell
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Cube.035_cell.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Cube.035_cell.002
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Cube.035_cell.003
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Cube.035_cell.004
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Cube.035_cell.005
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Cube.035_cell.006
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Cube.035_cell.007
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Cube.036_cell
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Cube.036_cell.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Cube.036_cell.002
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Cube.036_cell.003
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Cube.036_cell.004
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Cube.036_cell.005
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Cube.036_cell.006
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Cube.036_cell.007
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Cube.036_cell.008
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Cube.036_cell.009
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Cube.036_cell.010
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Sphere.002_cell
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Sphere.002_cell.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Sphere.002_cell.002
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Sphere.002_cell.004
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Sphere.002_cell.005
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Sphere.002_cell.006
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Sphere.002_cell.007
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Sphere.002_cell.008
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cube.036/Sphere.002_cell.009
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/Cylinder
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/head
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/neck/head/head_end
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.L
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.L/Cube.015
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.L/Cube.025
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.L/hand_poletarget_L
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.L/hand_poletarget_L/hand_poletarget_L_end
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.L/upper_arm.R.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.L/upper_arm.R.001/Cube.019
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.L/upper_arm.R.001/Cube.020
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.L/upper_arm.R.001/Cube.021
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.L/upper_arm.R.001/forearm.R.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.L/upper_arm.R.001/forearm.R.001/Cube.008
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.L/upper_arm.R.001/forearm.R.001/Cube.009
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.L/upper_arm.R.001/forearm.R.001/Cube.010
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.L/upper_arm.R.001/forearm.R.001/forearm.R.001_end
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.L/upper_arm.R.001/forearm.R.001/Icosphere.026
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.R/Cube.003
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.R/Cube.026
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.R/Hand_poletarget_R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.R/Hand_poletarget_R/Hand_poletarget_R_end
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.R/upper_arm.R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.R/upper_arm.R/Cube.016
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.R/upper_arm.R/Cube.017
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.R/upper_arm.R/Cube.018
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/Cube.004
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/Cube.005
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/Cube.007
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/forearm.R_end
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/shoulder.R/upper_arm.R/forearm.R/Icosphere.029
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/Sphere
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/spine/chest/Sphere/Sphere.001
+    m_Weight: 1
+  - m_Path: basic_enemy/Root/hips/thigh.L
+    m_Weight: 0
+  - m_Path: basic_enemy/Root/hips/thigh.L/Cube.014
+    m_Weight: 0
+  - m_Path: basic_enemy/Root/hips/thigh.L/shin.L
+    m_Weight: 0
+  - m_Path: basic_enemy/Root/hips/thigh.L/shin.L/Cube
+    m_Weight: 0
+  - m_Path: basic_enemy/Root/hips/thigh.L/shin.L/shin.L_end
+    m_Weight: 0
+  - m_Path: basic_enemy/Root/hips/thigh.R
+    m_Weight: 0
+  - m_Path: basic_enemy/Root/hips/thigh.R/Cube.001
+    m_Weight: 0
+  - m_Path: basic_enemy/Root/hips/thigh.R/shin.R
+    m_Weight: 0
+  - m_Path: basic_enemy/Root/hips/thigh.R/shin.R/Cube.013
+    m_Weight: 0
+  - m_Path: basic_enemy/Root/hips/thigh.R/shin.R/shin.R_end
+    m_Weight: 0
+  - m_Path: Makarov.001
+    m_Weight: 1
